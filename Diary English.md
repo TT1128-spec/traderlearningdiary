@@ -17,6 +17,7 @@ My first main resource is Yale’s online course Financial Markets, taught by Pr
 Links:
 YouTube playlist: https://www.youtube.com/playlist?list=PL8FB14A2200B87185
 Yale Open Course page: https://oyc.yale.edu/economics/econ-252 (more resources like assignments, transcripts, etc.)
+
 Book: Reminiscences of a Stock Operator (PDF): https://www.dayouf.com/upload/uploadfile/2016/0407/20160407092909724.pdf
 
 I also plan to learn one strategy per week, then use paper trading for 1–2 weeks to test it and find what suits me best. I will start with easier strategies because I don’t have enough financial knowledge yet to fully understand complicated ones. I also want to limit the number of strategies at the beginning (around 20–30) to avoid learning too many at once.
