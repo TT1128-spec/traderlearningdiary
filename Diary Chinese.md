@@ -17,6 +17,7 @@ traderlearningdiary
 链接：
 YouTube 播放列表： https://www.youtube.com/playlist?list=PL8FB14A2200B87185
 耶鲁公开课页面： https://oyc.yale.edu/economics/econ-252 （有更多资源，比如作业、文字稿等）
+
 《股票作手回忆录》PDF： https://www.dayouf.com/upload/uploadfile/2016/0407/20160407092909724.pdf
 
 另外，我计划 每周学习一个策略，并用 1–2 周的模拟交易去测试它，看看哪种策略最适合我。我会从更简单的策略开始，因为我目前的金融知识还不足以理解太复杂的策略体系。同时我也不想一口气学太多，初期大概控制在 20–30 个策略左右。
