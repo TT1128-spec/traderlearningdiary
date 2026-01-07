@@ -69,6 +69,25 @@ YouTube 播放列表： https://www.youtube.com/playlist?list=PL8FB14A2200B87185
 
 计划过两天等onebox本体吃得差不多专门慢下来练一下止损止盈点，5秒一根K太难计算了
 
+1.7日志
+
+今天没学完financial market的L3，主要休息了一下看了电影（阿凡达3）
+
+不过询问了专业人士的意见后转变一下计划
+
+financial market开了就学完
+
+股票作手回忆录也一样看完，估计在去HK的飞机上就能读完了
+
+然后读One good trade/日本蜡烛图/看IBKR "Order Types"
+
+在此期间仍然保持训练
+
+然后我再学阿布价格行为
+
+再说
+
+今天写了一个剥头皮策略的2R计算器，简单玩玩
 
 
 
